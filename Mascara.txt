@@ -1,5 +1,6 @@
-Precio: $3647
+﻿Precio: $3647
 Color: Negro
 Tipo: Waterproof
 Duración: Media
-Relacion calidad precio: Podria mejorar
+Relacion calidad precio: Podria mejora
+Crítica: Se corre con faciliad
