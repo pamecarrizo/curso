@@ -1,0 +1,33 @@
+h1{
+    font-style: italic;
+    text-align: center;
+    color: rgb(39, 39, 39);
+    text-shadow: 7px 0px 7px grey;
+
+}
+img{
+   display: block;
+   margin: auto;
+   width: 20%;
+
+}
+
+h3{
+    color: darkslategray;
+    font-style: italic;
+    text-align: center;
+
+}
+
+p{
+    color: darkslategrey
+    font-style: unset;
+    text-align: center;
+
+}
+
+il{
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
